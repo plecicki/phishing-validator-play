@@ -8,6 +8,7 @@ class PhishingValidatorPlayApplicationTests {
 
     @Test
     void contextLoads() {
+
     }
 
 }
